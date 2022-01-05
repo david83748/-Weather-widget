@@ -1,0 +1,13 @@
+body {
+  background: url(./img/fon_pogoda.jpeg) 0 0/no-repeat;
+  background-color: blue;
+}
+
+body .main {
+  font-size: 20px;
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=style.css.map */
